@@ -23,8 +23,6 @@ venv/
 *.ipynb_checkpoints
 
 # Datos sensibles o pesados
-Datasets/*.csv
-Datasets/*.xlsx
 Datasets/*.json
 Datasets/raw/
 

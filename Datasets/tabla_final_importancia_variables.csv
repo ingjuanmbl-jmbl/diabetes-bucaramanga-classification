@@ -1,0 +1,151 @@
+﻿Modelo,Tipo_Metrica,Variable,Valor_Impacto,Valor_Absoluto
+LogisticRegression,Coeficiente,artritis,-2.536510447201637,2.536510447201637
+LogisticRegression,Coeficiente,asma,-2.3853049585889696,2.3853049585889696
+LogisticRegression,Coeficiente,huerfanas_hemofilias_y_otras,-2.1505060249295718,2.1505060249295718
+LogisticRegression,Coeficiente,ciclo_de_vida_PERSONA MAYOR,1.9702663804374527,1.9702663804374527
+LogisticRegression,Coeficiente,trasplantados,-1.7567205109400548,1.7567205109400548
+LogisticRegression,Coeficiente,epoc,-1.519140352392645,1.519140352392645
+LogisticRegression,Coeficiente,ciclo_de_vida_ADULTEZ,1.374471200386428,1.374471200386428
+LogisticRegression,Coeficiente,hipertensi_n,-1.2824246594349793,1.2824246594349793
+LogisticRegression,Coeficiente,ciclo_de_vida_INFANCIA,-1.230710841866627,1.230710841866627
+LogisticRegression,Coeficiente,ciclo_de_vida_PRIMERA INFANCIA,1.1951245710269573,1.1951245710269573
+LogisticRegression,Coeficiente,c_ncer,-1.024386190236541,1.024386190236541
+LogisticRegression,Coeficiente,cirugia_cardiaca,-0.9037923937665424,0.9037923937665424
+LogisticRegression,Coeficiente,regimen_P,0.8523764614633349,0.8523764614633349
+LogisticRegression,Coeficiente,compromiso_renal,0.7945814405006967,0.7945814405006967
+LogisticRegression,Coeficiente,tipo_erc_limpio_SIN CLAS,0.5810114294021039,0.5810114294021039
+LogisticRegression,Coeficiente,erc_trr_limpio_No recibe TRR,-0.5490408157081158,0.5490408157081158
+LogisticRegression,Coeficiente,erc_trr_limpio_Registro inconsistente,-0.4198251104157488,0.4198251104157488
+LogisticRegression,Coeficiente,tipo_erc_limpio_Estadio II,-0.3345442857370335,0.3345442857370335
+LogisticRegression,Coeficiente,erc_trr_limpio_Prediálisis,-0.32731680821083986,0.32731680821083986
+LogisticRegression,Coeficiente,tipo_erc_limpio_Estadio III,-0.30834217501729777,0.30834217501729777
+LogisticRegression,Coeficiente,tipo_erc_limpio_Estadio IV,0.2697283809560706,0.2697283809560706
+LogisticRegression,Coeficiente,regimen_S,0.20669707759269818,0.20669707759269818
+LogisticRegression,Coeficiente,ciclo_de_vida_JOVENES,0.17221910168239493,0.17221910168239493
+LogisticRegression,Coeficiente,erc_trr_limpio_Recibe TRR (no especificada),-0.1447291058192121,0.1447291058192121
+LogisticRegression,Coeficiente,erc_trr_limpio_Hemodiálisis,-0.14244949678413402,0.14244949678413402
+LogisticRegression,Coeficiente,insuficiencia_cardiaca,0.12434893878201167,0.12434893878201167
+LogisticRegression,Coeficiente,sexo_MASCULINO,-0.08691001326281411,0.08691001326281411
+LogisticRegression,Coeficiente,regimen_E,-0.07373894738846976,0.07373894738846976
+LogisticRegression,Coeficiente,erc_trr_limpio_Trasplante (no definido / no disponible),0.009909178360885904,0.009909178360885904
+LogisticRegression,Coeficiente,tipo_erc_limpio_Estadio V,-0.00014265241248393595,0.00014265241248393595
+DecisionTree,Importancia,hipertensi_n,0.15914004485906502,0.15914004485906502
+DecisionTree,Importancia,regimen_P,0.12389345145133612,0.12389345145133612
+DecisionTree,Importancia,c_ncer,0.12088965043142007,0.12088965043142007
+DecisionTree,Importancia,ciclo_de_vida_PERSONA MAYOR,0.11129327593271844,0.11129327593271844
+DecisionTree,Importancia,epoc,0.09841111585449189,0.09841111585449189
+DecisionTree,Importancia,artritis,0.08731780330546765,0.08731780330546765
+DecisionTree,Importancia,asma,0.07152863750039658,0.07152863750039658
+DecisionTree,Importancia,compromiso_renal,0.0666440099115942,0.0666440099115942
+DecisionTree,Importancia,huerfanas_hemofilias_y_otras,0.05481122193985749,0.05481122193985749
+DecisionTree,Importancia,regimen_S,0.02135322174453606,0.02135322174453606
+DecisionTree,Importancia,tipo_erc_limpio_SIN CLAS,0.019131710550634597,0.019131710550634597
+DecisionTree,Importancia,erc_trr_limpio_Registro inconsistente,0.01675084881326739,0.01675084881326739
+DecisionTree,Importancia,erc_trr_limpio_No recibe TRR,0.013652346382301981,0.013652346382301981
+DecisionTree,Importancia,sexo_MASCULINO,0.010608497664288199,0.010608497664288199
+DecisionTree,Importancia,ciclo_de_vida_PRIMERA INFANCIA,0.009402489203283095,0.009402489203283095
+DecisionTree,Importancia,ciclo_de_vida_JOVENES,0.004352208302815979,0.004352208302815979
+DecisionTree,Importancia,ciclo_de_vida_ADULTEZ,0.00391092674805576,0.00391092674805576
+DecisionTree,Importancia,tipo_erc_limpio_Estadio III,0.002107503041965422,0.002107503041965422
+DecisionTree,Importancia,tipo_erc_limpio_Estadio II,0.001944828535298356,0.001944828535298356
+DecisionTree,Importancia,insuficiencia_cardiaca,0.0016838641811301371,0.0016838641811301371
+DecisionTree,Importancia,erc_trr_limpio_Hemodiálisis,0.0004997885862818443,0.0004997885862818443
+DecisionTree,Importancia,cirugia_cardiaca,0.0004714522483449306,0.0004714522483449306
+DecisionTree,Importancia,tipo_erc_limpio_Estadio IV,0.00020110281144876301,0.00020110281144876301
+DecisionTree,Importancia,trasplantados,0.0,0.0
+DecisionTree,Importancia,ciclo_de_vida_INFANCIA,0.0,0.0
+DecisionTree,Importancia,tipo_erc_limpio_Estadio V,0.0,0.0
+DecisionTree,Importancia,erc_trr_limpio_Recibe TRR (no especificada),0.0,0.0
+DecisionTree,Importancia,erc_trr_limpio_Prediálisis,0.0,0.0
+DecisionTree,Importancia,regimen_E,0.0,0.0
+DecisionTree,Importancia,erc_trr_limpio_Trasplante (no definido / no disponible),0.0,0.0
+RandomForest,Importancia,hipertensi_n,0.2004314246205137,0.2004314246205137
+RandomForest,Importancia,ciclo_de_vida_PERSONA MAYOR,0.11908992695132034,0.11908992695132034
+RandomForest,Importancia,epoc,0.10393495263922334,0.10393495263922334
+RandomForest,Importancia,c_ncer,0.07223998315266829,0.07223998315266829
+RandomForest,Importancia,ciclo_de_vida_ADULTEZ,0.06838738948225648,0.06838738948225648
+RandomForest,Importancia,regimen_P,0.06391552295580999,0.06391552295580999
+RandomForest,Importancia,asma,0.054636485211118045,0.054636485211118045
+RandomForest,Importancia,compromiso_renal,0.05117032323328433,0.05117032323328433
+RandomForest,Importancia,artritis,0.05103053915468244,0.05103053915468244
+RandomForest,Importancia,regimen_S,0.046245358538768905,0.046245358538768905
+RandomForest,Importancia,erc_trr_limpio_Registro inconsistente,0.026933267412860527,0.026933267412860527
+RandomForest,Importancia,tipo_erc_limpio_SIN CLAS,0.024646233595413142,0.024646233595413142
+RandomForest,Importancia,sexo_MASCULINO,0.02381598033414089,0.02381598033414089
+RandomForest,Importancia,huerfanas_hemofilias_y_otras,0.023215886687005964,0.023215886687005964
+RandomForest,Importancia,erc_trr_limpio_No recibe TRR,0.0199471448441529,0.0199471448441529
+RandomForest,Importancia,ciclo_de_vida_JOVENES,0.015834743798725737,0.015834743798725737
+RandomForest,Importancia,tipo_erc_limpio_Estadio III,0.010784626456757138,0.010784626456757138
+RandomForest,Importancia,ciclo_de_vida_INFANCIA,0.008498700243890312,0.008498700243890312
+RandomForest,Importancia,ciclo_de_vida_PRIMERA INFANCIA,0.007732982333960423,0.007732982333960423
+RandomForest,Importancia,trasplantados,0.0018525073822520074,0.0018525073822520074
+RandomForest,Importancia,tipo_erc_limpio_Estadio II,0.0018116391850317621,0.0018116391850317621
+RandomForest,Importancia,insuficiencia_cardiaca,0.0015128885853942205,0.0015128885853942205
+RandomForest,Importancia,tipo_erc_limpio_Estadio IV,0.0010903958828596997,0.0010903958828596997
+RandomForest,Importancia,cirugia_cardiaca,0.0005194480670074241,0.0005194480670074241
+RandomForest,Importancia,erc_trr_limpio_Hemodiálisis,0.0005149405892039757,0.0005149405892039757
+RandomForest,Importancia,erc_trr_limpio_Prediálisis,0.00011259075415880595,0.00011259075415880595
+RandomForest,Importancia,tipo_erc_limpio_Estadio V,3.979402907525808e-05,3.979402907525808e-05
+RandomForest,Importancia,erc_trr_limpio_Recibe TRR (no especificada),2.7678250010435126e-05,2.7678250010435126e-05
+RandomForest,Importancia,erc_trr_limpio_Trasplante (no definido / no disponible),2.6645628453576597e-05,2.6645628453576597e-05
+RandomForest,Importancia,regimen_E,0.0,0.0
+GradientBoosting,Importancia,hipertensi_n,0.23167727193177431,0.23167727193177431
+GradientBoosting,Importancia,ciclo_de_vida_PERSONA MAYOR,0.12330475828593197,0.12330475828593197
+GradientBoosting,Importancia,regimen_P,0.11944718547743759,0.11944718547743759
+GradientBoosting,Importancia,c_ncer,0.11165057530966417,0.11165057530966417
+GradientBoosting,Importancia,epoc,0.09685384788556031,0.09685384788556031
+GradientBoosting,Importancia,asma,0.06690991412437931,0.06690991412437931
+GradientBoosting,Importancia,compromiso_renal,0.05526019950411708,0.05526019950411708
+GradientBoosting,Importancia,artritis,0.05326238668556626,0.05326238668556626
+GradientBoosting,Importancia,huerfanas_hemofilias_y_otras,0.027890507638197604,0.027890507638197604
+GradientBoosting,Importancia,tipo_erc_limpio_SIN CLAS,0.027810703442481467,0.027810703442481467
+GradientBoosting,Importancia,regimen_S,0.025754624801519004,0.025754624801519004
+GradientBoosting,Importancia,ciclo_de_vida_ADULTEZ,0.021871469019865128,0.021871469019865128
+GradientBoosting,Importancia,erc_trr_limpio_No recibe TRR,0.009624866106819912,0.009624866106819912
+GradientBoosting,Importancia,ciclo_de_vida_JOVENES,0.006929596697975612,0.006929596697975612
+GradientBoosting,Importancia,erc_trr_limpio_Registro inconsistente,0.00518858264009061,0.00518858264009061
+GradientBoosting,Importancia,ciclo_de_vida_PRIMERA INFANCIA,0.005009414963365936,0.005009414963365936
+GradientBoosting,Importancia,sexo_MASCULINO,0.003862457968252907,0.003862457968252907
+GradientBoosting,Importancia,tipo_erc_limpio_Estadio III,0.002767351176992111,0.002767351176992111
+GradientBoosting,Importancia,trasplantados,0.0027443335233235337,0.0027443335233235337
+GradientBoosting,Importancia,tipo_erc_limpio_Estadio II,0.0005581277471258971,0.0005581277471258971
+GradientBoosting,Importancia,insuficiencia_cardiaca,0.0005485464028492976,0.0005485464028492976
+GradientBoosting,Importancia,cirugia_cardiaca,0.0005148401695724009,0.0005148401695724009
+GradientBoosting,Importancia,ciclo_de_vida_INFANCIA,0.0002596873295811366,0.0002596873295811366
+GradientBoosting,Importancia,tipo_erc_limpio_Estadio IV,0.00024714341724992863,0.00024714341724992863
+GradientBoosting,Importancia,erc_trr_limpio_Hemodiálisis,5.160775030650572e-05,5.160775030650572e-05
+GradientBoosting,Importancia,tipo_erc_limpio_Estadio V,0.0,0.0
+GradientBoosting,Importancia,erc_trr_limpio_Recibe TRR (no especificada),0.0,0.0
+GradientBoosting,Importancia,erc_trr_limpio_Prediálisis,0.0,0.0
+GradientBoosting,Importancia,regimen_E,0.0,0.0
+GradientBoosting,Importancia,erc_trr_limpio_Trasplante (no definido / no disponible),0.0,0.0
+XGBoost,Importancia,ciclo_de_vida_PERSONA MAYOR,0.18469081819057465,0.18469081819057465
+XGBoost,Importancia,c_ncer,0.09686262905597687,0.09686262905597687
+XGBoost,Importancia,ciclo_de_vida_ADULTEZ,0.080234095454216,0.080234095454216
+XGBoost,Importancia,asma,0.08021681755781174,0.08021681755781174
+XGBoost,Importancia,epoc,0.06946846842765808,0.06946846842765808
+XGBoost,Importancia,hipertensi_n,0.061258282512426376,0.061258282512426376
+XGBoost,Importancia,artritis,0.058933887630701065,0.058933887630701065
+XGBoost,Importancia,tipo_erc_limpio_SIN CLAS,0.057092487812042236,0.057092487812042236
+XGBoost,Importancia,erc_trr_limpio_Registro inconsistente,0.055669013410806656,0.055669013410806656
+XGBoost,Importancia,regimen_P,0.04968391731381416,0.04968391731381416
+XGBoost,Importancia,huerfanas_hemofilias_y_otras,0.04053656756877899,0.04053656756877899
+XGBoost,Importancia,regimen_S,0.033941157162189484,0.033941157162189484
+XGBoost,Importancia,compromiso_renal,0.025778386741876602,0.025778386741876602
+XGBoost,Importancia,ciclo_de_vida_JOVENES,0.019123056903481483,0.019123056903481483
+XGBoost,Importancia,erc_trr_limpio_No recibe TRR,0.017266830429434776,0.017266830429434776
+XGBoost,Importancia,tipo_erc_limpio_Estadio III,0.016934692859649658,0.016934692859649658
+XGBoost,Importancia,ciclo_de_vida_INFANCIA,0.014826269820332527,0.014826269820332527
+XGBoost,Importancia,ciclo_de_vida_PRIMERA INFANCIA,0.012448379769921303,0.012448379769921303
+XGBoost,Importancia,trasplantados,0.010921896435320377,0.010921896435320377
+XGBoost,Importancia,cirugia_cardiaca,0.0049943942576646805,0.0049943942576646805
+XGBoost,Importancia,tipo_erc_limpio_Estadio II,0.004679426085203886,0.004679426085203886
+XGBoost,Importancia,sexo_MASCULINO,0.004438535775989294,0.004438535775989294
+XGBoost,Importancia,insuficiencia_cardiaca,0.0,0.0
+XGBoost,Importancia,erc_trr_limpio_Hemodiálisis,0.0,0.0
+XGBoost,Importancia,tipo_erc_limpio_Estadio IV,0.0,0.0
+XGBoost,Importancia,tipo_erc_limpio_Estadio V,0.0,0.0
+XGBoost,Importancia,erc_trr_limpio_Recibe TRR (no especificada),0.0,0.0
+XGBoost,Importancia,erc_trr_limpio_Prediálisis,0.0,0.0
+XGBoost,Importancia,regimen_E,0.0,0.0
+XGBoost,Importancia,erc_trr_limpio_Trasplante (no definido / no disponible),0.0,0.0
