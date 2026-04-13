@@ -1,0 +1,70 @@
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+Copyright (c) 2026 Juan Manuel Betancur
+Corporación Unificada Nacional de Colombia (CUN)
+Juan.betancurl@cun.edu.co
+ORCID: https://orcid.org/0009-0000-7720-5918
+
+=========================================================
+TÉRMINOS DE LA LICENCIA / LICENSE TERMS
+=========================================================
+
+Este trabajo está protegido bajo la licencia Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International.
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+---------------------------------------------------------
+USTED PUEDE / YOU ARE FREE TO:
+---------------------------------------------------------
+
+✔ Compartir (Share): copiar y redistribuir el material en cualquier
+  medio o formato / copy and redistribute the material in any medium
+  or format.
+
+---------------------------------------------------------
+BAJO LAS SIGUIENTES CONDICIONES / UNDER THE FOLLOWING TERMS:
+---------------------------------------------------------
+
+✔ Atribución (Attribution): Debe otorgar el crédito apropiado al autor,
+  proporcionar un enlace a la licencia e indicar si se realizaron cambios.
+  You must give appropriate credit to the author, provide a link to the
+  license, and indicate if changes were made.
+
+✗ No Comercial (NonCommercial): No puede utilizar el material con fines
+  comerciales. You may not use the material for commercial purposes.
+
+✗ Sin Derivadas (NoDerivatives): Si remezcla, transforma o construye
+  sobre el material, no puede distribuir el material modificado.
+  If you remix, transform, or build upon the material, you may not
+  distribute the modified material.
+
+---------------------------------------------------------
+CÓMO CITAR ESTE TRABAJO / HOW TO CITE THIS WORK:
+---------------------------------------------------------
+
+Betancur, J. M. (2026). Comparación del Desempeño de Modelos de
+Clasificación para la Predicción de la Diabetes como Enfermedad Crónica
+en Bucaramanga [Comparison of the Performance of Classification Models
+for the Prediction of Diabetes as a Chronic Disease in Bucaramanga].
+Corporación Unificada Nacional de Colombia (CUN).
+ORCID: https://orcid.org/0009-0000-7720-5918
+
+---------------------------------------------------------
+AVISO / NOTICE:
+---------------------------------------------------------
+
+Ninguna parte de este repositorio, incluyendo el código fuente, los
+notebooks, los datos procesados y los modelos entrenados, puede ser
+reproducida, distribuida o utilizada con fines comerciales sin la
+autorización expresa y por escrito del autor.
+
+No part of this repository, including source code, notebooks, processed
+data, and trained models, may be reproduced, distributed, or used for
+commercial purposes without the express written permission of the author.
+
+=========================================================
+Texto completo de la licencia / Full license text:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+=========================================================
