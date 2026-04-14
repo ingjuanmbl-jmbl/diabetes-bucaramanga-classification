@@ -118,28 +118,14 @@ Se utilizó la métrica de **Ganancia (Gain)** sobre el modelo XGBoost para cuan
 
 ### Comparación de Modelos (Umbral = 0.5)
 
-| Modelo | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
-|--------|----------|-----------|--------|----------|---------|
-| XGBoost | — | — | 0.919 | ~0.530 | **0.676** |
-| Gradient Boosting | — | — | 0.914 | ~0.529 | 0.671 |
-| Random Forest | — | — | 0.930 | ~0.530 | — |
-| Árbol de Decisión | **0.735** | **0.690** | 0.354 | — | 0.669 |
-| Regresión Logística | 0.530 | — | 0.666 | 0.483 | — |
+![resultado umbral 0.5](imágenes/heatmap_umbral_05.png)
 
 ### Optimización de Umbral — XGBoost
 - Ajustando el umbral de decisión a **0.4**, el modelo alcanzó un **Recall de 0.958**, garantizando la identificación de casi la totalidad de individuos en riesgo y minimizando los falsos negativos.
 
 ### Variables Más Importantes (XGBoost — Gain)
+![resultado umbral 0.5](imágenes/xgboost_fi.png)
 
-| Variable | Importancia Relativa |
-|----------|----------------------|
-| Persona Mayor (ciclo de vida) | 18.47% |
-| Cáncer | 9.69% |
-| Adultez (ciclo de vida) | 8.02% |
-| Asma | 8.02% |
-| EPOC | 6.95% |
-| Hipertensión | 6.13% |
-| Artritis | 5.89% |
 
 ---
 
@@ -179,5 +165,3 @@ El autor declara que no existe ningún conflicto de interés de tipo financiero,
 **Juan Manuel Betancur:** Responsable de la conceptualización de la investigación, el diseño metodológico, la extracción y el procesamiento de los datos abiertos. Realizó la programación de los modelos de aprendizaje supervisado en Python, la validación cruzada y la optimización de hiperparámetros. Asimismo, se encargó de la redacción del manuscrito original, la interpretación de los resultados clínicos y la revisión final del texto.
 
 ---
-
-*Investigación realizada en el marco de la Especialización en Analítica de Datos — Corporación Unificada Nacional de Colombia (CUN).*
