@@ -118,13 +118,13 @@ Se utilizó la métrica de **Ganancia (Gain)** sobre el modelo XGBoost para cuan
 
 ### Comparación de Modelos (Umbral = 0.5)
 
-![resultado umbral 0.5](imágenes/heatmap_umbral_05.png)
+![resultado umbral 0.5](img/heatmap_umbral_05.png)
 
 ### Optimización de Umbral — XGBoost
 - Ajustando el umbral de decisión a **0.4**, el modelo alcanzó un **Recall de 0.958**, garantizando la identificación de casi la totalidad de individuos en riesgo y minimizando los falsos negativos.
 
 ### Variables Más Importantes (XGBoost — Gain)
-![resultado umbral 0.5](imágenes/xgboost_fi.png)
+![resultado umbral 0.5](img/xgboost_fi.png)
 
 
 ---
